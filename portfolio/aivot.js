@@ -83,5 +83,5 @@ function yhteystietoFunktio() {
         diagrammi.fillText("30.1.", 620, 500);
     }
     function ilmainenfunktio(){
-        alert("jn-gamerz hakkaa sut tätä menoo");
+        alert("alkholi ikäraja on 18!");
     }
